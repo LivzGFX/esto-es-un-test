@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'work sans';
+}
+
+.contenedor{
+    padding: 60px 0;
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* HEADER */
+
+header{
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
